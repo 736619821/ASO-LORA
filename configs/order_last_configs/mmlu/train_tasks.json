@@ -1,0 +1,11 @@
+{
+    "NGUM": [
+
+    ],
+    "MMLU": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "MMLU"
+        } 
+    ]
+}
